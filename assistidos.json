@@ -1,0 +1,30 @@
+[
+  {
+    "Title": "Pulp Fiction",
+    "Director": "Quentin Tarantino",
+    "Year": 1994,
+    "Plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "Runtime": "154 min"
+  },
+  {
+    "Title": "Back to the Future",
+    "Director": "Robert Zemeckis",
+    "Year": 1985,
+    "Plot": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+    "Runtime": "116 min"
+  },
+  {
+    "Title": "Mad Max: Fury Road",
+    "Director": "George Miller",
+    "Year": 2015,
+    "Plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshipper and a drifter named Max.",
+    "Runtime": "120 min"
+  },
+  {
+    "Title": "Oppenheimer",
+    "Director": "Christopher Nolan",
+    "Year": 2023,
+    "Plot": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "Runtime": "180 min"
+  }
+]

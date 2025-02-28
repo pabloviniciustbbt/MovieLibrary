@@ -17,11 +17,6 @@ Movie Library é uma aplicação em Java que permite pesquisar filmes através d
 - **Gson**: Biblioteca para converter JSON para objetos Java e vice-versa.
 - **OMDB API**: API utilizada obter informações de um filme.
 
-## Requisitos
-
-- **Java 11** ou superior.
-- Biblioteca `Gson` (o JAR está incluído na pasta `Dependencies`).
-
 ## Diagrama de Classes
 
 ```mermaid
@@ -63,7 +58,11 @@ classDiagram
     Main --> Movie
     ApiServices --> MovieException
 ```
+## Requisitos
 
+- **Java 11** ou superior.
+- Biblioteca `Gson` (o JAR está incluído na pasta `Dependencies`).
+  
 ## Como Executar o Projeto
 
 1. **Clone o repositório:**
